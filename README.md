@@ -11,9 +11,9 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **hibernate, maven**
+ 🌱 I’m currently learning **Hibernate, Maven**
 
-💬 Ask me about **Core java, Mysql, Web development... or anything [here](https://github.com/Shubham-sakunde/Shubham-sakunde/issues)**
+💬 Ask me about **Core java, Mysql, Web Development... or anything [here](https://github.com/Shubham-sakunde/Shubham-sakunde/issues)**
 
  </div>
  
