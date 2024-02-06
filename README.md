@@ -35,6 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,mysql,html,css,bootstrap,vscode,github,jsp,servlet" />
+    <img src="https://skillicons.dev/icons?i=java,bootstrap,css,eclipse,github,hibernate,html,idea,js,maven,mysql,spring,vscode,figma&theme=light"/>
 </div>
 
 <br/>
